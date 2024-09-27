@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#F1F1F1</color>
+    <color name="grayson">#EBEBEB</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FE6342</color>
+    <color name="colorPrimaryDark">#FF0850</color>
+    <color name="colorAccent">#FE3449</color>
+    <color name="bottom_nav_item_color_selected">#FE3449</color>
+</resources>
